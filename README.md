@@ -9,3 +9,5 @@ In this the donor can choose any NGO and donate or go on a drive as a charity or
 
 Also the NGO and Fundraiser can  accept or deny and check the details of donor.
 
+
+
